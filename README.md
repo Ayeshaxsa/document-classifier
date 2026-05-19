@@ -148,6 +148,4 @@ Hey, are we meeting tomorrow?
 
 ---
 
-# 👨‍💻 Author
-
 Made while learning Machine Learning + NLP 🚀
