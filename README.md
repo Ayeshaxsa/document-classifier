@@ -6,7 +6,7 @@ An NLP + Machine Learning project that classifies SMS messages as **Spam** or **
 
 # 🚀 Live Demo
 
-🌐 Streamlit App: *(link will be added.)*
+🌐 Streamlit App: *https://document-classifier-nlp.streamlit.app/*
 
 ---
 
@@ -128,12 +128,6 @@ Hey, are we meeting tomorrow?
 | Metric | Score |
 |---|---|
 | Accuracy | 95% |
-
----
-
-# 📸 Application Preview
-
-*(imgs will be added.)*
 
 ---
 
